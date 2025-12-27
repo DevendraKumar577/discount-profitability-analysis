@@ -4,6 +4,8 @@
 This project analyzes how different discount levels impact profitability and order count using Superstore order-level data.  
 The goal is to identify discount ranges that drive sales versus those that lead to profit losses.
 
+📌 Download `Discount_Profitability_Analysis.xlsx` to view Excel dashboard.
+
 ## Key Analysis
 - Analyzed profit and order count across 4 discount bands (0–10%, 10–20%, 20–30%, 30%+).
 - Identified that higher discount levels (30%+) consistently result in overall profit losses despite having orders.
