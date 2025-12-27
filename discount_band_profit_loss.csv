@@ -1,0 +1,6 @@
+discount_band,loss_flag,order_count,total_profit
+0-10%,Profit,68,1995.17
+10-20%,Loss,7,-232.21
+10-20%,Profit,45,1276.45
+20-30%,Loss,4,-39.97
+30%+,Loss,15,-2938.21
